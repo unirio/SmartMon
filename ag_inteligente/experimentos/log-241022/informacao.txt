@@ -1,0 +1,8 @@
+Informações do Teste.
+
+trafego INT 3Mb em 30s
+trafego fundo 5Mb, 20Mb, 35Mb, 51Mb, 45Mb, 30Mb, 25Mb 10Mb. em 60s
+
+20 episódios de 64 timesteps cada com batch size 32 e epslon decay 0,985
+
+Rede Neural 128 / 64

@@ -1,0 +1,19 @@
+Versão Atual
+
+ARQ: ambiente.py, agente.py, configura.json, configuracao.py e main.py
+
+
+
+
+### Versões Antigas ###
+
+VERSÃO MAIS ANTIGA, RODAVA COM O 
+ARQ: ambientebd7.py, no ambientebd8.py comecei juntar tudo. ambiente.py e agente.py configura.txt
+
+VERSÃO RODADANDO COM GRANDEVETOR NORMALIZADO COM AGENTE MODIFICADO
+ARQS: configura.json, ambiente1.py, configuracao.py, agente1.py e main.py
+
+VERSÃO DA NORMALIZAÇÃO POR FEATURES
+ARQS: configura.json, ambiente2.py, configuracao.py, agente1.py e main.py
+
+#Ultima versão funcionando antes de eu atualizar para ficar igual ao book do Addilson

@@ -1,0 +1,2 @@
+episodeos 20/32/16/0.985
+rede neural 64 /32

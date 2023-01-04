@@ -1,0 +1,2560 @@
+0 - Estado Inicial  -> recompensa 0 - Ação -> 1
+AMediaSalto: 0 AMediaFluxo: 0 AMediaFila 0 acao 1 recompensa: 0
+PMediaSalto: 4387 PMediaFluxo: 2923 PMediaFila: 16 acao 1 recompensa: 0
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 4387 AMediaFluxo: 2923 AMediaFila 16 acao 0 recompensa: -10
+PMediaSalto: 4643 PMediaFluxo: 3096 PMediaFila: 52 acao 0 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 4643 AMediaFluxo: 3096 AMediaFila 52 acao 0 recompensa: -10
+PMediaSalto: 243 PMediaFluxo: 161 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 243 AMediaFluxo: 161 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 155 PMediaFluxo: 100 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 155 AMediaFluxo: 100 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 4479 PMediaFluxo: 2986 PMediaFila: 0 acao 0 recompensa: 10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 4479 AMediaFluxo: 2986 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 428 PMediaFluxo: 285 PMediaFila: 0 acao 0 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 428 AMediaFluxo: 285 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 182 PMediaFluxo: 117 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 182 AMediaFluxo: 117 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 246 PMediaFluxo: 165 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 246 AMediaFluxo: 165 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 449 PMediaFluxo: 302 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 449 AMediaFluxo: 302 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 270 PMediaFluxo: 178 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 270 AMediaFluxo: 178 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 419 PMediaFluxo: 278 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 419 AMediaFluxo: 278 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 274 PMediaFluxo: 181 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 274 AMediaFluxo: 181 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 188 PMediaFluxo: 125 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 188 AMediaFluxo: 125 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 333 PMediaFluxo: 219 PMediaFila: 0 acao 1 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 333 AMediaFluxo: 219 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 341 PMediaFluxo: 229 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 341 AMediaFluxo: 229 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 317 PMediaFluxo: 213 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 317 AMediaFluxo: 213 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 5794 PMediaFluxo: 3862 PMediaFila: 0 acao 0 recompensa: 10
+
+6 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 5794 AMediaFluxo: 3862 AMediaFila 0 acao 1 recompensa: 10
+PMediaSalto: 150 PMediaFluxo: 98 PMediaFila: 0 acao 1 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 150 AMediaFluxo: 98 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 226 PMediaFluxo: 149 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 226 AMediaFluxo: 149 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 289 PMediaFluxo: 191 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 289 AMediaFluxo: 191 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 494 PMediaFluxo: 330 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 494 AMediaFluxo: 330 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 5050 PMediaFluxo: 3367 PMediaFila: 26 acao 1 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 5050 AMediaFluxo: 3367 AMediaFila 26 acao 0 recompensa: -10
+PMediaSalto: 199 PMediaFluxo: 132 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 199 AMediaFluxo: 132 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 163 PMediaFluxo: 109 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 163 AMediaFluxo: 109 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 4621 PMediaFluxo: 3082 PMediaFila: 0 acao 0 recompensa: 10
+
+6 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 4621 AMediaFluxo: 3082 AMediaFila 0 acao 1 recompensa: 10
+PMediaSalto: 333 PMediaFluxo: 221 PMediaFila: 0 acao 1 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 333 AMediaFluxo: 221 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 187 PMediaFluxo: 124 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 187 AMediaFluxo: 124 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 162 PMediaFluxo: 101 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 162 AMediaFluxo: 101 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 247 PMediaFluxo: 167 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 247 AMediaFluxo: 167 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 304 PMediaFluxo: 203 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 304 AMediaFluxo: 203 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 365 PMediaFluxo: 244 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 365 AMediaFluxo: 244 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 173 PMediaFluxo: 118 PMediaFila: 0 acao 1 recompensa: -10
+
+0 - Estado Inicial  -> recompensa 0 - Ação -> 1
+AMediaSalto: 0 AMediaFluxo: 0 AMediaFila 0 acao 1 recompensa: 0
+PMediaSalto: 4320 PMediaFluxo: 2881 PMediaFila: 37 acao 1 recompensa: 0
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 4320 AMediaFluxo: 2881 AMediaFila 37 acao 0 recompensa: -10
+PMediaSalto: 258 PMediaFluxo: 172 PMediaFila: 0 acao 0 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 258 AMediaFluxo: 172 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 244 PMediaFluxo: 161 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 244 AMediaFluxo: 161 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 376 PMediaFluxo: 251 PMediaFila: 25 acao 0 recompensa: 10
+
+3 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 376 AMediaFluxo: 251 AMediaFila 25 acao 0 recompensa: -10
+PMediaSalto: 253 PMediaFluxo: 165 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 253 AMediaFluxo: 165 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 187 PMediaFluxo: 123 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 187 AMediaFluxo: 123 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 245 PMediaFluxo: 162 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 245 AMediaFluxo: 162 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 5423 PMediaFluxo: 3615 PMediaFila: 55 acao 0 recompensa: 10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 5423 AMediaFluxo: 3615 AMediaFila 55 acao 0 recompensa: -10
+PMediaSalto: 4204 PMediaFluxo: 2803 PMediaFila: 0 acao 0 recompensa: -10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 4204 AMediaFluxo: 2803 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 281 PMediaFluxo: 186 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 281 AMediaFluxo: 186 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 4432 PMediaFluxo: 2954 PMediaFila: 0 acao 0 recompensa: 10
+
+6 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 4432 AMediaFluxo: 2954 AMediaFila 0 acao 1 recompensa: 10
+PMediaSalto: 4431 PMediaFluxo: 2954 PMediaFila: 32 acao 1 recompensa: 10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 4431 AMediaFluxo: 2954 AMediaFila 32 acao 0 recompensa: -10
+PMediaSalto: 264 PMediaFluxo: 179 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 264 AMediaFluxo: 179 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 162 PMediaFluxo: 108 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 162 AMediaFluxo: 108 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 4954 PMediaFluxo: 3304 PMediaFila: 0 acao 0 recompensa: 10
+
+6 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 4954 AMediaFluxo: 3304 AMediaFila 0 acao 1 recompensa: 10
+PMediaSalto: 187 PMediaFluxo: 123 PMediaFila: 0 acao 1 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 187 AMediaFluxo: 123 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 231 PMediaFluxo: 158 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 231 AMediaFluxo: 158 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 213 PMediaFluxo: 144 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 213 AMediaFluxo: 144 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 194 PMediaFluxo: 127 PMediaFila: 0 acao 1 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 194 AMediaFluxo: 127 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 305 PMediaFluxo: 204 PMediaFila: 0 acao 1 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 305 AMediaFluxo: 204 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 5310 PMediaFluxo: 3540 PMediaFila: 52 acao 1 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 5310 AMediaFluxo: 3540 AMediaFila 52 acao 0 recompensa: -10
+PMediaSalto: 232 PMediaFluxo: 155 PMediaFila: 0 acao 0 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 232 AMediaFluxo: 155 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 154 PMediaFluxo: 97 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 154 AMediaFluxo: 97 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 184 PMediaFluxo: 123 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 184 AMediaFluxo: 123 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 186 PMediaFluxo: 127 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 186 AMediaFluxo: 127 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 4384 PMediaFluxo: 2921 PMediaFila: 51 acao 0 recompensa: 10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 4384 AMediaFluxo: 2921 AMediaFila 51 acao 0 recompensa: -10
+PMediaSalto: 464 PMediaFluxo: 310 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 464 AMediaFluxo: 310 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 209 PMediaFluxo: 142 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 209 AMediaFluxo: 142 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 458 PMediaFluxo: 305 PMediaFila: 0 acao 1 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 458 AMediaFluxo: 305 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 213 PMediaFluxo: 145 PMediaFila: 0 acao 1 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 213 AMediaFluxo: 145 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 298 PMediaFluxo: 198 PMediaFila: 1 acao 1 recompensa: -10
+
+3 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 298 AMediaFluxo: 198 AMediaFila 1 acao 0 recompensa: -10
+PMediaSalto: 227 PMediaFluxo: 151 PMediaFila: 0 acao 0 recompensa: -10
+
+0 - Estado Inicial  -> recompensa 0 - Ação -> 0
+AMediaSalto: 0 AMediaFluxo: 0 AMediaFila 0 acao 0 recompensa: 0
+PMediaSalto: 284 PMediaFluxo: 191 PMediaFila: 0 acao 0 recompensa: 0
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 284 AMediaFluxo: 191 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 3763 PMediaFluxo: 2510 PMediaFila: 0 acao 0 recompensa: 10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 3763 AMediaFluxo: 2510 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 4756 PMediaFluxo: 3172 PMediaFila: 0 acao 0 recompensa: -10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 4756 AMediaFluxo: 3172 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 741 PMediaFluxo: 491 PMediaFila: 0 acao 0 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 741 AMediaFluxo: 491 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 192 PMediaFluxo: 129 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 192 AMediaFluxo: 129 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 4018 PMediaFluxo: 2677 PMediaFila: 0 acao 0 recompensa: 10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 4018 AMediaFluxo: 2677 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 3495 PMediaFluxo: 2329 PMediaFila: 0 acao 0 recompensa: -10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 3495 AMediaFluxo: 2329 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 1416 PMediaFluxo: 943 PMediaFila: 0 acao 0 recompensa: -10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 1416 AMediaFluxo: 943 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 186 PMediaFluxo: 122 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 186 AMediaFluxo: 122 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 222 PMediaFluxo: 148 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 222 AMediaFluxo: 148 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 528 PMediaFluxo: 348 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 528 AMediaFluxo: 348 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 3653 PMediaFluxo: 2435 PMediaFila: 0 acao 0 recompensa: 10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 3653 AMediaFluxo: 2435 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 3824 PMediaFluxo: 2550 PMediaFila: 0 acao 0 recompensa: -10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 3824 AMediaFluxo: 2550 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 771 PMediaFluxo: 512 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 771 AMediaFluxo: 512 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 275 PMediaFluxo: 184 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 275 AMediaFluxo: 184 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 265 PMediaFluxo: 178 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 265 AMediaFluxo: 178 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 207 PMediaFluxo: 134 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 207 AMediaFluxo: 134 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 452 PMediaFluxo: 301 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 452 AMediaFluxo: 301 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 189 PMediaFluxo: 125 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 189 AMediaFluxo: 125 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 2599 PMediaFluxo: 1731 PMediaFila: 50 acao 1 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 2599 AMediaFluxo: 1731 AMediaFila 50 acao 0 recompensa: -10
+PMediaSalto: 4853 PMediaFluxo: 3237 PMediaFila: 60 acao 0 recompensa: -10
+
+2 - Telemetria alta  -> recompensa 10 - Ação -> 1
+AMediaSalto: 4853 AMediaFluxo: 3237 AMediaFila 60 acao 1 recompensa: 10
+PMediaSalto: 1762 PMediaFluxo: 1174 PMediaFila: 35 acao 1 recompensa: 10
+
+2 - Telemetria alta  -> recompensa 10 - Ação -> 1
+AMediaSalto: 1762 AMediaFluxo: 1174 AMediaFila 35 acao 1 recompensa: 10
+PMediaSalto: 217 PMediaFluxo: 140 PMediaFila: 0 acao 1 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 217 AMediaFluxo: 140 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 190 PMediaFluxo: 123 PMediaFila: 0 acao 1 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 190 AMediaFluxo: 123 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 382 PMediaFluxo: 251 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 382 AMediaFluxo: 251 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 271 PMediaFluxo: 180 PMediaFila: 1 acao 0 recompensa: 10
+
+4 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 271 AMediaFluxo: 180 AMediaFila 1 acao 1 recompensa: 10
+PMediaSalto: 2098 PMediaFluxo: 1397 PMediaFila: 48 acao 1 recompensa: 10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 2098 AMediaFluxo: 1397 AMediaFila 48 acao 0 recompensa: -10
+PMediaSalto: 2957 PMediaFluxo: 1968 PMediaFila: 53 acao 0 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 2957 AMediaFluxo: 1968 AMediaFila 53 acao 0 recompensa: -10
+PMediaSalto: 2512 PMediaFluxo: 1676 PMediaFila: 0 acao 0 recompensa: -10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 2512 AMediaFluxo: 1676 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 2952 PMediaFluxo: 1969 PMediaFila: 0 acao 0 recompensa: -10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 2952 AMediaFluxo: 1969 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 2514 PMediaFluxo: 1676 PMediaFila: 0 acao 0 recompensa: -10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 2514 AMediaFluxo: 1676 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 1913 PMediaFluxo: 1275 PMediaFila: 0 acao 0 recompensa: -10
+
+0 - Estado Inicial  -> recompensa 0 - Ação -> 1
+AMediaSalto: 0 AMediaFluxo: 0 AMediaFila 0 acao 1 recompensa: 0
+PMediaSalto: 4190 PMediaFluxo: 2792 PMediaFila: 52 acao 1 recompensa: 0
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 4190 AMediaFluxo: 2792 AMediaFila 52 acao 0 recompensa: -10
+PMediaSalto: 2957 PMediaFluxo: 1970 PMediaFila: 38 acao 0 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 2957 AMediaFluxo: 1970 AMediaFila 38 acao 0 recompensa: -10
+PMediaSalto: 236 PMediaFluxo: 156 PMediaFila: 0 acao 0 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 236 AMediaFluxo: 156 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 2081 PMediaFluxo: 1387 PMediaFila: 48 acao 1 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 2081 AMediaFluxo: 1387 AMediaFila 48 acao 0 recompensa: -10
+PMediaSalto: 3271 PMediaFluxo: 2179 PMediaFila: 31 acao 0 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 3271 AMediaFluxo: 2179 AMediaFila 31 acao 0 recompensa: -10
+PMediaSalto: 286 PMediaFluxo: 190 PMediaFila: 0 acao 0 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 286 AMediaFluxo: 190 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 1751 PMediaFluxo: 1169 PMediaFila: 43 acao 1 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 1751 AMediaFluxo: 1169 AMediaFila 43 acao 0 recompensa: -10
+PMediaSalto: 4400 PMediaFluxo: 2932 PMediaFila: 22 acao 0 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 4400 AMediaFluxo: 2932 AMediaFila 22 acao 0 recompensa: -10
+PMediaSalto: 3194 PMediaFluxo: 2128 PMediaFila: 0 acao 0 recompensa: -10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 3194 AMediaFluxo: 2128 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 965 PMediaFluxo: 641 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 965 AMediaFluxo: 641 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 3141 PMediaFluxo: 2096 PMediaFila: 0 acao 0 recompensa: 10
+
+6 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 3141 AMediaFluxo: 2096 AMediaFila 0 acao 1 recompensa: 10
+PMediaSalto: 159 PMediaFluxo: 102 PMediaFila: 0 acao 1 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 159 AMediaFluxo: 102 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 1394 PMediaFluxo: 928 PMediaFila: 0 acao 0 recompensa: 10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 1394 AMediaFluxo: 928 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 3373 PMediaFluxo: 2248 PMediaFila: 0 acao 0 recompensa: -10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 3373 AMediaFluxo: 2248 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 174 PMediaFluxo: 117 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 174 AMediaFluxo: 117 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 204 PMediaFluxo: 133 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 204 AMediaFluxo: 133 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 193 PMediaFluxo: 129 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 193 AMediaFluxo: 129 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 183 PMediaFluxo: 119 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 183 AMediaFluxo: 119 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 204 PMediaFluxo: 133 PMediaFila: 1 acao 1 recompensa: -10
+
+3 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 204 AMediaFluxo: 133 AMediaFila 1 acao 0 recompensa: -10
+PMediaSalto: 172 PMediaFluxo: 115 PMediaFila: 0 acao 0 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 172 AMediaFluxo: 115 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 164 PMediaFluxo: 107 PMediaFila: 0 acao 1 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 164 AMediaFluxo: 107 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 248 PMediaFluxo: 163 PMediaFila: 0 acao 1 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 248 AMediaFluxo: 163 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 652 PMediaFluxo: 436 PMediaFila: 0 acao 1 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 652 AMediaFluxo: 436 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 177 PMediaFluxo: 117 PMediaFila: 0 acao 1 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 177 AMediaFluxo: 117 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 3957 PMediaFluxo: 2637 PMediaFila: 42 acao 1 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 3957 AMediaFluxo: 2637 AMediaFila 42 acao 0 recompensa: -10
+PMediaSalto: 280 PMediaFluxo: 186 PMediaFila: 5 acao 0 recompensa: -10
+
+3 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 280 AMediaFluxo: 186 AMediaFila 5 acao 0 recompensa: -10
+PMediaSalto: 340 PMediaFluxo: 228 PMediaFila: 0 acao 0 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 340 AMediaFluxo: 228 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 3622 PMediaFluxo: 2415 PMediaFila: 47 acao 1 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 3622 AMediaFluxo: 2415 AMediaFila 47 acao 0 recompensa: -10
+PMediaSalto: 342 PMediaFluxo: 228 PMediaFila: 1 acao 0 recompensa: -10
+
+3 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 342 AMediaFluxo: 228 AMediaFila 1 acao 0 recompensa: -10
+PMediaSalto: 174 PMediaFluxo: 120 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 174 AMediaFluxo: 120 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 398 PMediaFluxo: 262 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 398 AMediaFluxo: 262 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 174 PMediaFluxo: 110 PMediaFila: 0 acao 0 recompensa: 10
+
+0 - Estado Inicial  -> recompensa 0 - Ação -> 0
+AMediaSalto: 0 AMediaFluxo: 0 AMediaFila 0 acao 0 recompensa: 0
+PMediaSalto: 258 PMediaFluxo: 173 PMediaFila: 0 acao 0 recompensa: 0
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 258 AMediaFluxo: 173 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 5888 PMediaFluxo: 3926 PMediaFila: 21 acao 1 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 5888 AMediaFluxo: 3926 AMediaFila 21 acao 0 recompensa: -10
+PMediaSalto: 154 PMediaFluxo: 101 PMediaFila: 0 acao 0 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 154 AMediaFluxo: 101 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 423 PMediaFluxo: 280 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 423 AMediaFluxo: 280 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 5231 PMediaFluxo: 3488 PMediaFila: 54 acao 0 recompensa: 10
+
+2 - Telemetria alta  -> recompensa 10 - Ação -> 1
+AMediaSalto: 5231 AMediaFluxo: 3488 AMediaFila 54 acao 1 recompensa: 10
+PMediaSalto: 568 PMediaFluxo: 378 PMediaFila: 0 acao 1 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 568 AMediaFluxo: 378 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 198 PMediaFluxo: 133 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 198 AMediaFluxo: 133 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 688 PMediaFluxo: 461 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 688 AMediaFluxo: 461 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 5197 PMediaFluxo: 3465 PMediaFila: 30 acao 0 recompensa: 10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 5197 AMediaFluxo: 3465 AMediaFila 30 acao 0 recompensa: -10
+PMediaSalto: 159 PMediaFluxo: 104 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 159 AMediaFluxo: 104 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 442 PMediaFluxo: 295 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 442 AMediaFluxo: 295 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 175 PMediaFluxo: 115 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 175 AMediaFluxo: 115 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 273 PMediaFluxo: 183 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 273 AMediaFluxo: 183 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 3276 PMediaFluxo: 2184 PMediaFila: 42 acao 1 recompensa: -10
+
+2 - Telemetria alta  -> recompensa 10 - Ação -> 1
+AMediaSalto: 3276 AMediaFluxo: 2184 AMediaFila 42 acao 1 recompensa: 10
+PMediaSalto: 3579 PMediaFluxo: 2385 PMediaFila: 43 acao 1 recompensa: 10
+
+2 - Telemetria alta  -> recompensa 10 - Ação -> 1
+AMediaSalto: 3579 AMediaFluxo: 2385 AMediaFila 43 acao 1 recompensa: 10
+PMediaSalto: 295 PMediaFluxo: 193 PMediaFila: 0 acao 1 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 295 AMediaFluxo: 193 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 173 PMediaFluxo: 113 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 173 AMediaFluxo: 113 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 3751 PMediaFluxo: 2501 PMediaFila: 28 acao 0 recompensa: 10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 3751 AMediaFluxo: 2501 AMediaFila 28 acao 0 recompensa: -10
+PMediaSalto: 437 PMediaFluxo: 292 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 437 AMediaFluxo: 292 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 160 PMediaFluxo: 100 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 160 AMediaFluxo: 100 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 499 PMediaFluxo: 328 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 499 AMediaFluxo: 328 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 4223 PMediaFluxo: 2817 PMediaFila: 0 acao 0 recompensa: 10
+
+6 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 4223 AMediaFluxo: 2817 AMediaFila 0 acao 1 recompensa: 10
+PMediaSalto: 286 PMediaFluxo: 190 PMediaFila: 0 acao 1 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 286 AMediaFluxo: 190 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 165 PMediaFluxo: 104 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 165 AMediaFluxo: 104 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 377 PMediaFluxo: 251 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 377 AMediaFluxo: 251 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 404 PMediaFluxo: 268 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 404 AMediaFluxo: 268 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 185 PMediaFluxo: 121 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 185 AMediaFluxo: 121 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 209 PMediaFluxo: 137 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 209 AMediaFluxo: 137 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 272 PMediaFluxo: 180 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 272 AMediaFluxo: 180 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 254 PMediaFluxo: 168 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 254 AMediaFluxo: 168 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 4705 PMediaFluxo: 3137 PMediaFila: 44 acao 0 recompensa: 10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 4705 AMediaFluxo: 3137 AMediaFila 44 acao 0 recompensa: -10
+PMediaSalto: 187 PMediaFluxo: 118 PMediaFila: 0 acao 0 recompensa: -10
+
+0 - Estado Inicial  -> recompensa 0 - Ação -> 0
+AMediaSalto: 0 AMediaFluxo: 0 AMediaFila 0 acao 0 recompensa: 0
+PMediaSalto: 224 PMediaFluxo: 153 PMediaFila: 0 acao 0 recompensa: 0
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 224 AMediaFluxo: 153 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 284 PMediaFluxo: 191 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 284 AMediaFluxo: 191 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 273 PMediaFluxo: 181 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 273 AMediaFluxo: 181 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 331 PMediaFluxo: 220 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 331 AMediaFluxo: 220 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 170 PMediaFluxo: 108 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 170 AMediaFluxo: 108 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 178 PMediaFluxo: 114 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 178 AMediaFluxo: 114 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 170 PMediaFluxo: 107 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 170 AMediaFluxo: 107 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 283 PMediaFluxo: 146 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 283 AMediaFluxo: 146 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 177 PMediaFluxo: 114 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 177 AMediaFluxo: 114 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 4391 PMediaFluxo: 2926 PMediaFila: 0 acao 0 recompensa: 10
+
+6 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 4391 AMediaFluxo: 2926 AMediaFila 0 acao 1 recompensa: 10
+PMediaSalto: 552 PMediaFluxo: 368 PMediaFila: 1 acao 1 recompensa: 10
+
+3 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 552 AMediaFluxo: 368 AMediaFila 1 acao 0 recompensa: -10
+PMediaSalto: 399 PMediaFluxo: 269 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 399 AMediaFluxo: 269 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 270 PMediaFluxo: 181 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 270 AMediaFluxo: 181 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 300 PMediaFluxo: 198 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 300 AMediaFluxo: 198 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 193 PMediaFluxo: 129 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 193 AMediaFluxo: 129 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 191 PMediaFluxo: 127 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 191 AMediaFluxo: 127 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 4957 PMediaFluxo: 3303 PMediaFila: 44 acao 1 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 4957 AMediaFluxo: 3303 AMediaFila 44 acao 0 recompensa: -10
+PMediaSalto: 427 PMediaFluxo: 282 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 427 AMediaFluxo: 282 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 169 PMediaFluxo: 110 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 169 AMediaFluxo: 110 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 442 PMediaFluxo: 297 PMediaFila: 0 acao 1 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 442 AMediaFluxo: 297 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 210 PMediaFluxo: 137 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 210 AMediaFluxo: 137 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 5564 PMediaFluxo: 3710 PMediaFila: 53 acao 0 recompensa: 10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 5564 AMediaFluxo: 3710 AMediaFila 53 acao 0 recompensa: -10
+PMediaSalto: 162 PMediaFluxo: 101 PMediaFila: 0 acao 0 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 162 AMediaFluxo: 101 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 4889 PMediaFluxo: 3260 PMediaFila: 21 acao 1 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 4889 AMediaFluxo: 3260 AMediaFila 21 acao 0 recompensa: -10
+PMediaSalto: 360 PMediaFluxo: 238 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 360 AMediaFluxo: 238 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 4382 PMediaFluxo: 2922 PMediaFila: 0 acao 0 recompensa: 10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 4382 AMediaFluxo: 2922 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 192 PMediaFluxo: 129 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 192 AMediaFluxo: 129 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 327 PMediaFluxo: 216 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 327 AMediaFluxo: 216 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 4335 PMediaFluxo: 2889 PMediaFila: 24 acao 1 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 4335 AMediaFluxo: 2889 AMediaFila 24 acao 0 recompensa: -10
+PMediaSalto: 244 PMediaFluxo: 165 PMediaFila: 0 acao 0 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 244 AMediaFluxo: 165 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 3941 PMediaFluxo: 2628 PMediaFila: 46 acao 1 recompensa: -10
+
+2 - Telemetria alta  -> recompensa 10 - Ação -> 1
+AMediaSalto: 3941 AMediaFluxo: 2628 AMediaFila 46 acao 1 recompensa: 10
+PMediaSalto: 255 PMediaFluxo: 168 PMediaFila: 0 acao 1 recompensa: 10
+
+0 - Estado Inicial  -> recompensa 0 - Ação -> 0
+AMediaSalto: 0 AMediaFluxo: 0 AMediaFila 0 acao 0 recompensa: 0
+PMediaSalto: 4384 PMediaFluxo: 2923 PMediaFila: 50 acao 0 recompensa: 0
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 4384 AMediaFluxo: 2923 AMediaFila 50 acao 0 recompensa: -10
+PMediaSalto: 4918 PMediaFluxo: 3278 PMediaFila: 0 acao 0 recompensa: -10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 4918 AMediaFluxo: 3278 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 4855 PMediaFluxo: 3238 PMediaFila: 0 acao 0 recompensa: -10
+
+6 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 4855 AMediaFluxo: 3238 AMediaFila 0 acao 1 recompensa: 10
+PMediaSalto: 286 PMediaFluxo: 189 PMediaFila: 0 acao 1 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 286 AMediaFluxo: 189 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 215 PMediaFluxo: 143 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 215 AMediaFluxo: 143 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 272 PMediaFluxo: 178 PMediaFila: 6 acao 0 recompensa: 10
+
+4 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 272 AMediaFluxo: 178 AMediaFila 6 acao 1 recompensa: 10
+PMediaSalto: 5702 PMediaFluxo: 3803 PMediaFila: 38 acao 1 recompensa: 10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 5702 AMediaFluxo: 3803 AMediaFila 38 acao 0 recompensa: -10
+PMediaSalto: 4823 PMediaFluxo: 3215 PMediaFila: 41 acao 0 recompensa: -10
+
+2 - Telemetria alta  -> recompensa 10 - Ação -> 1
+AMediaSalto: 4823 AMediaFluxo: 3215 AMediaFila 41 acao 1 recompensa: 10
+PMediaSalto: 198 PMediaFluxo: 134 PMediaFila: 0 acao 1 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 198 AMediaFluxo: 134 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 180 PMediaFluxo: 120 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 180 AMediaFluxo: 120 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 209 PMediaFluxo: 140 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 209 AMediaFluxo: 140 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 432 PMediaFluxo: 289 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 432 AMediaFluxo: 289 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 195 PMediaFluxo: 130 PMediaFila: 0 acao 1 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 195 AMediaFluxo: 130 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 182 PMediaFluxo: 119 PMediaFila: 0 acao 1 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 182 AMediaFluxo: 119 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 181 PMediaFluxo: 119 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 181 AMediaFluxo: 119 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 200 PMediaFluxo: 136 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 200 AMediaFluxo: 136 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 280 PMediaFluxo: 188 PMediaFila: 8 acao 1 recompensa: -10
+
+3 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 280 AMediaFluxo: 188 AMediaFila 8 acao 0 recompensa: -10
+PMediaSalto: 271 PMediaFluxo: 182 PMediaFila: 2 acao 0 recompensa: -10
+
+3 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 271 AMediaFluxo: 182 AMediaFila 2 acao 0 recompensa: -10
+PMediaSalto: 244 PMediaFluxo: 162 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 244 AMediaFluxo: 162 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 645 PMediaFluxo: 429 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 645 AMediaFluxo: 429 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 4260 PMediaFluxo: 2841 PMediaFila: 0 acao 0 recompensa: 10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 4260 AMediaFluxo: 2841 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 154 PMediaFluxo: 99 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 154 AMediaFluxo: 99 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 460 PMediaFluxo: 306 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 460 AMediaFluxo: 306 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 180 PMediaFluxo: 119 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 180 AMediaFluxo: 119 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 4146 PMediaFluxo: 2765 PMediaFila: 0 acao 0 recompensa: 10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 4146 AMediaFluxo: 2765 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 496 PMediaFluxo: 332 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 496 AMediaFluxo: 332 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 223 PMediaFluxo: 148 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 223 AMediaFluxo: 148 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 370 PMediaFluxo: 247 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 370 AMediaFluxo: 247 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 212 PMediaFluxo: 140 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 212 AMediaFluxo: 140 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 203 PMediaFluxo: 133 PMediaFila: 0 acao 1 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 203 AMediaFluxo: 133 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 293 PMediaFluxo: 195 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 293 AMediaFluxo: 195 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 251 PMediaFluxo: 167 PMediaFila: 0 acao 0 recompensa: 10
+
+0 - Estado Inicial  -> recompensa 0 - Ação -> 0
+AMediaSalto: 0 AMediaFluxo: 0 AMediaFila 0 acao 0 recompensa: 0
+PMediaSalto: 3702 PMediaFluxo: 2468 PMediaFila: 0 acao 0 recompensa: 0
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 3702 AMediaFluxo: 2468 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 670 PMediaFluxo: 444 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 670 AMediaFluxo: 444 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 437 PMediaFluxo: 290 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 437 AMediaFluxo: 290 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 161 PMediaFluxo: 103 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 161 AMediaFluxo: 103 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 308 PMediaFluxo: 204 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 308 AMediaFluxo: 204 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 209 PMediaFluxo: 139 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 209 AMediaFluxo: 139 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 235 PMediaFluxo: 154 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 235 AMediaFluxo: 154 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 184 PMediaFluxo: 119 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 184 AMediaFluxo: 119 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 179 PMediaFluxo: 118 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 179 AMediaFluxo: 118 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 280 PMediaFluxo: 184 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 280 AMediaFluxo: 184 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 549 PMediaFluxo: 368 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 549 AMediaFluxo: 368 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 301 PMediaFluxo: 203 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 301 AMediaFluxo: 203 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 206 PMediaFluxo: 137 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 206 AMediaFluxo: 137 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 3055 PMediaFluxo: 2036 PMediaFila: 0 acao 0 recompensa: 10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 3055 AMediaFluxo: 2036 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 2082 PMediaFluxo: 1385 PMediaFila: 0 acao 0 recompensa: -10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 2082 AMediaFluxo: 1385 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 681 PMediaFluxo: 455 PMediaFila: 0 acao 0 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 681 AMediaFluxo: 455 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 262 PMediaFluxo: 174 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 262 AMediaFluxo: 174 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 229 PMediaFluxo: 149 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 229 AMediaFluxo: 149 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 212 PMediaFluxo: 139 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 212 AMediaFluxo: 139 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 201 PMediaFluxo: 134 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 201 AMediaFluxo: 134 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 171 PMediaFluxo: 111 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 171 AMediaFluxo: 111 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 372 PMediaFluxo: 248 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 372 AMediaFluxo: 248 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 1719 PMediaFluxo: 1144 PMediaFila: 0 acao 0 recompensa: 10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 1719 AMediaFluxo: 1144 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 4652 PMediaFluxo: 3100 PMediaFila: 0 acao 0 recompensa: -10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 4652 AMediaFluxo: 3100 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 4147 PMediaFluxo: 2765 PMediaFila: 0 acao 0 recompensa: -10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 4147 AMediaFluxo: 2765 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 2091 PMediaFluxo: 1392 PMediaFila: 0 acao 0 recompensa: -10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 2091 AMediaFluxo: 1392 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 313 PMediaFluxo: 207 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 313 AMediaFluxo: 207 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 425 PMediaFluxo: 285 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 425 AMediaFluxo: 285 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 1781 PMediaFluxo: 1188 PMediaFila: 46 acao 1 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 1781 AMediaFluxo: 1188 AMediaFila 46 acao 0 recompensa: -10
+PMediaSalto: 2733 PMediaFluxo: 1822 PMediaFila: 29 acao 0 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 2733 AMediaFluxo: 1822 AMediaFila 29 acao 0 recompensa: -10
+PMediaSalto: 268 PMediaFluxo: 173 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 268 AMediaFluxo: 173 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 1592 PMediaFluxo: 1062 PMediaFila: 0 acao 0 recompensa: 10
+
+0 - Estado Inicial  -> recompensa 0 - Ação -> 0
+AMediaSalto: 0 AMediaFluxo: 0 AMediaFila 0 acao 0 recompensa: 0
+PMediaSalto: 3516 PMediaFluxo: 2343 PMediaFila: 0 acao 0 recompensa: 0
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 3516 AMediaFluxo: 2343 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 2961 PMediaFluxo: 1973 PMediaFila: 0 acao 0 recompensa: -10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 2961 AMediaFluxo: 1973 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 1534 PMediaFluxo: 1020 PMediaFila: 0 acao 0 recompensa: -10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 1534 AMediaFluxo: 1020 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 3018 PMediaFluxo: 2011 PMediaFila: 0 acao 0 recompensa: -10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 3018 AMediaFluxo: 2011 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 204 PMediaFluxo: 138 PMediaFila: 0 acao 0 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 204 AMediaFluxo: 138 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 1671 PMediaFluxo: 1112 PMediaFila: 56 acao 1 recompensa: -10
+
+2 - Telemetria alta  -> recompensa 10 - Ação -> 1
+AMediaSalto: 1671 AMediaFluxo: 1112 AMediaFila 56 acao 1 recompensa: 10
+PMediaSalto: 4743 PMediaFluxo: 3164 PMediaFila: 50 acao 1 recompensa: 10
+
+2 - Telemetria alta  -> recompensa 10 - Ação -> 1
+AMediaSalto: 4743 AMediaFluxo: 3164 AMediaFila 50 acao 1 recompensa: 10
+PMediaSalto: 4934 PMediaFluxo: 3291 PMediaFila: 46 acao 1 recompensa: 10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 4934 AMediaFluxo: 3291 AMediaFila 46 acao 0 recompensa: -10
+PMediaSalto: 2585 PMediaFluxo: 1721 PMediaFila: 20 acao 0 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 2585 AMediaFluxo: 1721 AMediaFila 20 acao 0 recompensa: -10
+PMediaSalto: 186 PMediaFluxo: 121 PMediaFila: 0 acao 0 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 186 AMediaFluxo: 121 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 251 PMediaFluxo: 165 PMediaFila: 0 acao 1 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 251 AMediaFluxo: 165 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 167 PMediaFluxo: 114 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 167 AMediaFluxo: 114 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 242 PMediaFluxo: 161 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 242 AMediaFluxo: 161 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 456 PMediaFluxo: 304 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 456 AMediaFluxo: 304 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 306 PMediaFluxo: 201 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 306 AMediaFluxo: 201 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 260 PMediaFluxo: 171 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 260 AMediaFluxo: 171 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 174 PMediaFluxo: 118 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 174 AMediaFluxo: 118 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 345 PMediaFluxo: 231 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 345 AMediaFluxo: 231 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 225 PMediaFluxo: 151 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 225 AMediaFluxo: 151 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 725 PMediaFluxo: 483 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 725 AMediaFluxo: 483 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 3772 PMediaFluxo: 2514 PMediaFila: 0 acao 0 recompensa: 10
+
+6 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 3772 AMediaFluxo: 2514 AMediaFila 0 acao 1 recompensa: 10
+PMediaSalto: 4667 PMediaFluxo: 3110 PMediaFila: 41 acao 1 recompensa: 10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 4667 AMediaFluxo: 3110 AMediaFila 41 acao 0 recompensa: -10
+PMediaSalto: 4667 PMediaFluxo: 3110 PMediaFila: 41 acao 0 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 4667 AMediaFluxo: 3110 AMediaFila 41 acao 0 recompensa: -10
+PMediaSalto: 4687 PMediaFluxo: 3125 PMediaFila: 53 acao 0 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 4687 AMediaFluxo: 3125 AMediaFila 53 acao 0 recompensa: -10
+PMediaSalto: 334 PMediaFluxo: 220 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 334 AMediaFluxo: 220 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 194 PMediaFluxo: 126 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 194 AMediaFluxo: 126 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 158 PMediaFluxo: 106 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 158 AMediaFluxo: 106 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 198 PMediaFluxo: 130 PMediaFila: 1 acao 0 recompensa: 10
+
+3 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 198 AMediaFluxo: 130 AMediaFila 1 acao 0 recompensa: -10
+PMediaSalto: 5156 PMediaFluxo: 3438 PMediaFila: 0 acao 0 recompensa: -10
+
+6 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 5156 AMediaFluxo: 3438 AMediaFila 0 acao 1 recompensa: 10
+PMediaSalto: 4653 PMediaFluxo: 3103 PMediaFila: 44 acao 1 recompensa: 10
+
+2 - Telemetria alta  -> recompensa 10 - Ação -> 1
+AMediaSalto: 4653 AMediaFluxo: 3103 AMediaFila 44 acao 1 recompensa: 10
+PMediaSalto: 256 PMediaFluxo: 172 PMediaFila: 9 acao 1 recompensa: 10
+
+3 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 256 AMediaFluxo: 172 AMediaFila 9 acao 0 recompensa: -10
+PMediaSalto: 5236 PMediaFluxo: 3491 PMediaFila: 40 acao 0 recompensa: -10
+
+0 - Estado Inicial  -> recompensa 0 - Ação -> 1
+AMediaSalto: 0 AMediaFluxo: 0 AMediaFila 0 acao 1 recompensa: 0
+PMediaSalto: 170 PMediaFluxo: 110 PMediaFila: 0 acao 1 recompensa: 0
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 170 AMediaFluxo: 110 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 469 PMediaFluxo: 312 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 469 AMediaFluxo: 312 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 164 PMediaFluxo: 107 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 164 AMediaFluxo: 107 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 183 PMediaFluxo: 120 PMediaFila: 0 acao 1 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 183 AMediaFluxo: 120 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 634 PMediaFluxo: 420 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 634 AMediaFluxo: 420 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 176 PMediaFluxo: 111 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 176 AMediaFluxo: 111 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 172 PMediaFluxo: 114 PMediaFila: 0 acao 1 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 172 AMediaFluxo: 114 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 185 PMediaFluxo: 116 PMediaFila: 0 acao 1 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 185 AMediaFluxo: 116 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 254 PMediaFluxo: 165 PMediaFila: 0 acao 1 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 254 AMediaFluxo: 165 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 336 PMediaFluxo: 223 PMediaFila: 0 acao 1 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 336 AMediaFluxo: 223 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 244 PMediaFluxo: 161 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 244 AMediaFluxo: 161 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 432 PMediaFluxo: 288 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 432 AMediaFluxo: 288 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 3732 PMediaFluxo: 2489 PMediaFila: 0 acao 0 recompensa: 10
+
+6 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 3732 AMediaFluxo: 2489 AMediaFila 0 acao 1 recompensa: 10
+PMediaSalto: 4841 PMediaFluxo: 3225 PMediaFila: 36 acao 1 recompensa: 10
+
+2 - Telemetria alta  -> recompensa 10 - Ação -> 1
+AMediaSalto: 4841 AMediaFluxo: 3225 AMediaFila 36 acao 1 recompensa: 10
+PMediaSalto: 208 PMediaFluxo: 136 PMediaFila: 1 acao 1 recompensa: 10
+
+3 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 208 AMediaFluxo: 136 AMediaFila 1 acao 0 recompensa: -10
+PMediaSalto: 279 PMediaFluxo: 187 PMediaFila: 18 acao 0 recompensa: -10
+
+3 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 279 AMediaFluxo: 187 AMediaFila 18 acao 0 recompensa: -10
+PMediaSalto: 178 PMediaFluxo: 115 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 178 AMediaFluxo: 115 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 366 PMediaFluxo: 242 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 366 AMediaFluxo: 242 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 227 PMediaFluxo: 152 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 227 AMediaFluxo: 152 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 535 PMediaFluxo: 356 PMediaFila: 1 acao 1 recompensa: -10
+
+3 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 535 AMediaFluxo: 356 AMediaFila 1 acao 0 recompensa: -10
+PMediaSalto: 214 PMediaFluxo: 140 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 214 AMediaFluxo: 140 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 4486 PMediaFluxo: 2991 PMediaFila: 0 acao 0 recompensa: 10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 4486 AMediaFluxo: 2991 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 4555 PMediaFluxo: 3037 PMediaFila: 0 acao 0 recompensa: -10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 4555 AMediaFluxo: 3037 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 309 PMediaFluxo: 204 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 309 AMediaFluxo: 204 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 208 PMediaFluxo: 138 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 208 AMediaFluxo: 138 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 176 PMediaFluxo: 117 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 176 AMediaFluxo: 117 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 5316 PMediaFluxo: 3544 PMediaFila: 0 acao 0 recompensa: 10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 5316 AMediaFluxo: 3544 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 309 PMediaFluxo: 205 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 309 AMediaFluxo: 205 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 166 PMediaFluxo: 111 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 166 AMediaFluxo: 111 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 286 PMediaFluxo: 191 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 286 AMediaFluxo: 191 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 3995 PMediaFluxo: 2664 PMediaFila: 0 acao 0 recompensa: 10
+
+6 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 3995 AMediaFluxo: 2664 AMediaFila 0 acao 1 recompensa: 10
+PMediaSalto: 362 PMediaFluxo: 239 PMediaFila: 0 acao 1 recompensa: 10
+
+0 - Estado Inicial  -> recompensa 0 - Ação -> 1
+AMediaSalto: 0 AMediaFluxo: 0 AMediaFila 0 acao 1 recompensa: 0
+PMediaSalto: 308 PMediaFluxo: 204 PMediaFila: 4 acao 1 recompensa: 0
+
+3 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 308 AMediaFluxo: 204 AMediaFila 4 acao 0 recompensa: -10
+PMediaSalto: 193 PMediaFluxo: 131 PMediaFila: 1 acao 0 recompensa: -10
+
+4 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 193 AMediaFluxo: 131 AMediaFila 1 acao 1 recompensa: 10
+PMediaSalto: 271 PMediaFluxo: 180 PMediaFila: 0 acao 1 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 271 AMediaFluxo: 180 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 440 PMediaFluxo: 294 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 440 AMediaFluxo: 294 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 279 PMediaFluxo: 185 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 279 AMediaFluxo: 185 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 460 PMediaFluxo: 307 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 460 AMediaFluxo: 307 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 171 PMediaFluxo: 110 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 171 AMediaFluxo: 110 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 201 PMediaFluxo: 132 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 201 AMediaFluxo: 132 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 257 PMediaFluxo: 171 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 257 AMediaFluxo: 171 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 242 PMediaFluxo: 158 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 242 AMediaFluxo: 158 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 290 PMediaFluxo: 195 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 290 AMediaFluxo: 195 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 165 PMediaFluxo: 108 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 165 AMediaFluxo: 108 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 4362 PMediaFluxo: 2908 PMediaFila: 0 acao 0 recompensa: 10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 4362 AMediaFluxo: 2908 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 5290 PMediaFluxo: 3528 PMediaFila: 0 acao 0 recompensa: -10
+
+6 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 5290 AMediaFluxo: 3528 AMediaFila 0 acao 1 recompensa: 10
+PMediaSalto: 222 PMediaFluxo: 144 PMediaFila: 0 acao 1 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 222 AMediaFluxo: 144 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 178 PMediaFluxo: 114 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 178 AMediaFluxo: 114 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 308 PMediaFluxo: 206 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 308 AMediaFluxo: 206 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 218 PMediaFluxo: 147 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 218 AMediaFluxo: 147 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 257 PMediaFluxo: 171 PMediaFila: 4 acao 0 recompensa: 10
+
+3 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 257 AMediaFluxo: 171 AMediaFila 4 acao 0 recompensa: -10
+PMediaSalto: 262 PMediaFluxo: 177 PMediaFila: 0 acao 0 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 262 AMediaFluxo: 177 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 4780 PMediaFluxo: 3186 PMediaFila: 47 acao 1 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 4780 AMediaFluxo: 3186 AMediaFila 47 acao 0 recompensa: -10
+PMediaSalto: 173 PMediaFluxo: 111 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 173 AMediaFluxo: 111 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 366 PMediaFluxo: 244 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 366 AMediaFluxo: 244 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 237 PMediaFluxo: 154 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 237 AMediaFluxo: 154 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 463 PMediaFluxo: 305 PMediaFila: 57 acao 0 recompensa: 10
+
+4 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 463 AMediaFluxo: 305 AMediaFila 57 acao 1 recompensa: 10
+PMediaSalto: 224 PMediaFluxo: 149 PMediaFila: 0 acao 1 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 224 AMediaFluxo: 149 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 4831 PMediaFluxo: 3221 PMediaFila: 52 acao 0 recompensa: 10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 4831 AMediaFluxo: 3221 AMediaFila 52 acao 0 recompensa: -10
+PMediaSalto: 381 PMediaFluxo: 255 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 381 AMediaFluxo: 255 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 280 PMediaFluxo: 189 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 280 AMediaFluxo: 189 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 222 PMediaFluxo: 146 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 222 AMediaFluxo: 146 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 383 PMediaFluxo: 254 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 383 AMediaFluxo: 254 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 309 PMediaFluxo: 206 PMediaFila: 0 acao 1 recompensa: -10
+
+0 - Estado Inicial  -> recompensa 0 - Ação -> 0
+AMediaSalto: 0 AMediaFluxo: 0 AMediaFila 0 acao 0 recompensa: 0
+PMediaSalto: 337 PMediaFluxo: 226 PMediaFila: 0 acao 0 recompensa: 0
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 337 AMediaFluxo: 226 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 167 PMediaFluxo: 109 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 167 AMediaFluxo: 109 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 299 PMediaFluxo: 199 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 299 AMediaFluxo: 199 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 4191 PMediaFluxo: 2795 PMediaFila: 0 acao 0 recompensa: 10
+
+6 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 4191 AMediaFluxo: 2795 AMediaFila 0 acao 1 recompensa: 10
+PMediaSalto: 4864 PMediaFluxo: 3201 PMediaFila: 33 acao 1 recompensa: 10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 4864 AMediaFluxo: 3201 AMediaFila 33 acao 0 recompensa: -10
+PMediaSalto: 3334 PMediaFluxo: 2224 PMediaFila: 53 acao 0 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 3334 AMediaFluxo: 2224 AMediaFila 53 acao 0 recompensa: -10
+PMediaSalto: 452 PMediaFluxo: 301 PMediaFila: 0 acao 0 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 452 AMediaFluxo: 301 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 238 PMediaFluxo: 158 PMediaFila: 0 acao 1 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 238 AMediaFluxo: 158 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 360 PMediaFluxo: 239 PMediaFila: 3 acao 1 recompensa: -10
+
+3 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 360 AMediaFluxo: 239 AMediaFila 3 acao 0 recompensa: -10
+PMediaSalto: 540 PMediaFluxo: 359 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 540 AMediaFluxo: 359 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 187 PMediaFluxo: 124 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 187 AMediaFluxo: 124 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 315 PMediaFluxo: 211 PMediaFila: 3 acao 1 recompensa: -10
+
+3 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 315 AMediaFluxo: 211 AMediaFila 3 acao 0 recompensa: -10
+PMediaSalto: 316 PMediaFluxo: 210 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 316 AMediaFluxo: 210 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 4245 PMediaFluxo: 2830 PMediaFila: 0 acao 0 recompensa: 10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 4245 AMediaFluxo: 2830 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 162 PMediaFluxo: 103 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 162 AMediaFluxo: 103 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 3769 PMediaFluxo: 2513 PMediaFila: 0 acao 0 recompensa: 10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 3769 AMediaFluxo: 2513 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 355 PMediaFluxo: 234 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 355 AMediaFluxo: 234 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 215 PMediaFluxo: 142 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 215 AMediaFluxo: 142 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 531 PMediaFluxo: 355 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 531 AMediaFluxo: 355 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 4274 PMediaFluxo: 2848 PMediaFila: 30 acao 0 recompensa: 10
+
+2 - Telemetria alta  -> recompensa 10 - Ação -> 1
+AMediaSalto: 4274 AMediaFluxo: 2848 AMediaFila 30 acao 1 recompensa: 10
+PMediaSalto: 437 PMediaFluxo: 294 PMediaFila: 0 acao 1 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 437 AMediaFluxo: 294 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 292 PMediaFluxo: 197 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 292 AMediaFluxo: 197 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 3336 PMediaFluxo: 2224 PMediaFila: 53 acao 0 recompensa: 10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 3336 AMediaFluxo: 2224 AMediaFila 53 acao 0 recompensa: -10
+PMediaSalto: 611 PMediaFluxo: 407 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 611 AMediaFluxo: 407 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 351 PMediaFluxo: 236 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 351 AMediaFluxo: 236 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 233 PMediaFluxo: 157 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 233 AMediaFluxo: 157 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 220 PMediaFluxo: 143 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 220 AMediaFluxo: 143 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 4318 PMediaFluxo: 2878 PMediaFila: 0 acao 0 recompensa: 10
+
+6 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 4318 AMediaFluxo: 2878 AMediaFila 0 acao 1 recompensa: 10
+PMediaSalto: 813 PMediaFluxo: 542 PMediaFila: 0 acao 1 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 813 AMediaFluxo: 542 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 210 PMediaFluxo: 137 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 210 AMediaFluxo: 137 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 417 PMediaFluxo: 271 PMediaFila: 0 acao 1 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 417 AMediaFluxo: 271 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 225 PMediaFluxo: 146 PMediaFila: 0 acao 1 recompensa: -10
+
+0 - Estado Inicial  -> recompensa 0 - Ação -> 0
+AMediaSalto: 0 AMediaFluxo: 0 AMediaFila 0 acao 0 recompensa: 0
+PMediaSalto: 257 PMediaFluxo: 172 PMediaFila: 0 acao 0 recompensa: 0
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 257 AMediaFluxo: 172 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 297 PMediaFluxo: 200 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 297 AMediaFluxo: 200 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 421 PMediaFluxo: 279 PMediaFila: 2 acao 0 recompensa: 10
+
+4 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 421 AMediaFluxo: 279 AMediaFila 2 acao 1 recompensa: 10
+PMediaSalto: 299 PMediaFluxo: 196 PMediaFila: 0 acao 1 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 299 AMediaFluxo: 196 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 444 PMediaFluxo: 297 PMediaFila: 2 acao 1 recompensa: -10
+
+3 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 444 AMediaFluxo: 297 AMediaFila 2 acao 0 recompensa: -10
+PMediaSalto: 221 PMediaFluxo: 145 PMediaFila: 3 acao 0 recompensa: -10
+
+3 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 221 AMediaFluxo: 145 AMediaFila 3 acao 0 recompensa: -10
+PMediaSalto: 307 PMediaFluxo: 203 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 307 AMediaFluxo: 203 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 204 PMediaFluxo: 107 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 204 AMediaFluxo: 107 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 161 PMediaFluxo: 107 PMediaFila: 1 acao 1 recompensa: -10
+
+3 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 161 AMediaFluxo: 107 AMediaFila 1 acao 0 recompensa: -10
+PMediaSalto: 167 PMediaFluxo: 109 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 167 AMediaFluxo: 109 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 186 PMediaFluxo: 123 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 186 AMediaFluxo: 123 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 200 PMediaFluxo: 132 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 200 AMediaFluxo: 132 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 2954 PMediaFluxo: 1968 PMediaFila: 0 acao 0 recompensa: 10
+
+6 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 2954 AMediaFluxo: 1968 AMediaFila 0 acao 1 recompensa: 10
+PMediaSalto: 1855 PMediaFluxo: 1237 PMediaFila: 42 acao 1 recompensa: 10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 1855 AMediaFluxo: 1237 AMediaFila 42 acao 0 recompensa: -10
+PMediaSalto: 198 PMediaFluxo: 130 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 198 AMediaFluxo: 130 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 233 PMediaFluxo: 154 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 233 AMediaFluxo: 154 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 3172 PMediaFluxo: 2116 PMediaFila: 0 acao 0 recompensa: 10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 3172 AMediaFluxo: 2116 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 1917 PMediaFluxo: 1278 PMediaFila: 0 acao 0 recompensa: -10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 1917 AMediaFluxo: 1278 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 191 PMediaFluxo: 125 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 191 AMediaFluxo: 125 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 2597 PMediaFluxo: 1729 PMediaFila: 0 acao 0 recompensa: 10
+
+6 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 2597 AMediaFluxo: 1729 AMediaFila 0 acao 1 recompensa: 10
+PMediaSalto: 2137 PMediaFluxo: 1430 PMediaFila: 45 acao 1 recompensa: 10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 2137 AMediaFluxo: 1430 AMediaFila 45 acao 0 recompensa: -10
+PMediaSalto: 206 PMediaFluxo: 135 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 206 AMediaFluxo: 135 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 310 PMediaFluxo: 206 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 310 AMediaFluxo: 206 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 355 PMediaFluxo: 234 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 355 AMediaFluxo: 234 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 280 PMediaFluxo: 186 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 280 AMediaFluxo: 186 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 206 PMediaFluxo: 132 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 206 AMediaFluxo: 132 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 2182 PMediaFluxo: 1452 PMediaFila: 0 acao 0 recompensa: 10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 2182 AMediaFluxo: 1452 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 2871 PMediaFluxo: 1914 PMediaFila: 0 acao 0 recompensa: -10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 2871 AMediaFluxo: 1914 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 488 PMediaFluxo: 328 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 488 AMediaFluxo: 328 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 201 PMediaFluxo: 132 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 201 AMediaFluxo: 132 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 177 PMediaFluxo: 114 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 177 AMediaFluxo: 114 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 647 PMediaFluxo: 431 PMediaFila: 0 acao 1 recompensa: -10
+
+0 - Estado Inicial  -> recompensa 0 - Ação -> 0
+AMediaSalto: 0 AMediaFluxo: 0 AMediaFila 0 acao 0 recompensa: 0
+PMediaSalto: 259 PMediaFluxo: 171 PMediaFila: 0 acao 0 recompensa: 0
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 259 AMediaFluxo: 171 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 235 PMediaFluxo: 156 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 235 AMediaFluxo: 156 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 186 PMediaFluxo: 116 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 186 AMediaFluxo: 116 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 398 PMediaFluxo: 263 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 398 AMediaFluxo: 263 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 278 PMediaFluxo: 180 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 278 AMediaFluxo: 180 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 204 PMediaFluxo: 132 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 204 AMediaFluxo: 132 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 246 PMediaFluxo: 164 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 246 AMediaFluxo: 164 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 1926 PMediaFluxo: 1284 PMediaFila: 0 acao 0 recompensa: 10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 1926 AMediaFluxo: 1284 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 3715 PMediaFluxo: 2476 PMediaFila: 0 acao 0 recompensa: -10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 3715 AMediaFluxo: 2476 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 1319 PMediaFluxo: 876 PMediaFila: 0 acao 0 recompensa: -10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 1319 AMediaFluxo: 876 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 3196 PMediaFluxo: 2132 PMediaFila: 0 acao 0 recompensa: -10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 3196 AMediaFluxo: 2132 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 242 PMediaFluxo: 161 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 242 AMediaFluxo: 161 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 270 PMediaFluxo: 180 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 270 AMediaFluxo: 180 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 225 PMediaFluxo: 147 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 225 AMediaFluxo: 147 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 338 PMediaFluxo: 225 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 338 AMediaFluxo: 225 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 245 PMediaFluxo: 161 PMediaFila: 4 acao 0 recompensa: 10
+
+3 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 245 AMediaFluxo: 161 AMediaFila 4 acao 0 recompensa: -10
+PMediaSalto: 361 PMediaFluxo: 240 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 361 AMediaFluxo: 240 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 235 PMediaFluxo: 158 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 235 AMediaFluxo: 158 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 167 PMediaFluxo: 108 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 167 AMediaFluxo: 108 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 285 PMediaFluxo: 188 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 285 AMediaFluxo: 188 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 156 PMediaFluxo: 100 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 156 AMediaFluxo: 100 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 556 PMediaFluxo: 368 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 556 AMediaFluxo: 368 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 3339 PMediaFluxo: 2224 PMediaFila: 47 acao 1 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 3339 AMediaFluxo: 2224 AMediaFila 47 acao 0 recompensa: -10
+PMediaSalto: 257 PMediaFluxo: 169 PMediaFila: 2 acao 0 recompensa: -10
+
+3 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 257 AMediaFluxo: 169 AMediaFila 2 acao 0 recompensa: -10
+PMediaSalto: 580 PMediaFluxo: 389 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 580 AMediaFluxo: 389 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 4972 PMediaFluxo: 3314 PMediaFila: 0 acao 0 recompensa: 10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 4972 AMediaFluxo: 3314 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 171 PMediaFluxo: 110 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 171 AMediaFluxo: 110 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 344 PMediaFluxo: 229 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 344 AMediaFluxo: 229 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 180 PMediaFluxo: 118 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 180 AMediaFluxo: 118 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 266 PMediaFluxo: 179 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 266 AMediaFluxo: 179 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 339 PMediaFluxo: 223 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 339 AMediaFluxo: 223 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 202 PMediaFluxo: 133 PMediaFila: 1 acao 0 recompensa: 10
+
+0 - Estado Inicial  -> recompensa 0 - Ação -> 0
+AMediaSalto: 0 AMediaFluxo: 0 AMediaFila 0 acao 0 recompensa: 0
+PMediaSalto: 4402 PMediaFluxo: 2934 PMediaFila: 0 acao 0 recompensa: 0
+
+6 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 4402 AMediaFluxo: 2934 AMediaFila 0 acao 1 recompensa: 10
+PMediaSalto: 195 PMediaFluxo: 129 PMediaFila: 0 acao 1 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 195 AMediaFluxo: 129 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 206 PMediaFluxo: 137 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 206 AMediaFluxo: 137 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 5007 PMediaFluxo: 3338 PMediaFila: 47 acao 1 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 5007 AMediaFluxo: 3338 AMediaFila 47 acao 0 recompensa: -10
+PMediaSalto: 225 PMediaFluxo: 149 PMediaFila: 0 acao 0 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 225 AMediaFluxo: 149 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 160 PMediaFluxo: 101 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 160 AMediaFluxo: 101 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 301 PMediaFluxo: 202 PMediaFila: 13 acao 0 recompensa: 10
+
+3 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 301 AMediaFluxo: 202 AMediaFila 13 acao 0 recompensa: -10
+PMediaSalto: 3694 PMediaFluxo: 2464 PMediaFila: 0 acao 0 recompensa: -10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 3694 AMediaFluxo: 2464 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 5018 PMediaFluxo: 3345 PMediaFila: 0 acao 0 recompensa: -10
+
+6 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 5018 AMediaFluxo: 3345 AMediaFila 0 acao 1 recompensa: 10
+PMediaSalto: 182 PMediaFluxo: 118 PMediaFila: 0 acao 1 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 182 AMediaFluxo: 118 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 285 PMediaFluxo: 189 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 285 AMediaFluxo: 189 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 244 PMediaFluxo: 159 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 244 AMediaFluxo: 159 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 157 PMediaFluxo: 106 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 157 AMediaFluxo: 106 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 270 PMediaFluxo: 179 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 270 AMediaFluxo: 179 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 733 PMediaFluxo: 487 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 733 AMediaFluxo: 487 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 184 PMediaFluxo: 119 PMediaFila: 0 acao 1 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 184 AMediaFluxo: 119 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 186 PMediaFluxo: 120 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 186 AMediaFluxo: 120 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 197 PMediaFluxo: 132 PMediaFila: 1 acao 0 recompensa: 10
+
+3 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 197 AMediaFluxo: 132 AMediaFila 1 acao 0 recompensa: -10
+PMediaSalto: 193 PMediaFluxo: 126 PMediaFila: 0 acao 0 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 193 AMediaFluxo: 126 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 155 PMediaFluxo: 101 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 155 AMediaFluxo: 101 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 3822 PMediaFluxo: 2547 PMediaFila: 51 acao 0 recompensa: 10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 3822 AMediaFluxo: 2547 AMediaFila 51 acao 0 recompensa: -10
+PMediaSalto: 270 PMediaFluxo: 179 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 270 AMediaFluxo: 179 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 270 PMediaFluxo: 178 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 270 AMediaFluxo: 178 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 4766 PMediaFluxo: 3178 PMediaFila: 0 acao 0 recompensa: 10
+
+6 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 4766 AMediaFluxo: 3178 AMediaFila 0 acao 1 recompensa: 10
+PMediaSalto: 363 PMediaFluxo: 240 PMediaFila: 10 acao 1 recompensa: 10
+
+3 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 363 AMediaFluxo: 240 AMediaFila 10 acao 0 recompensa: -10
+PMediaSalto: 374 PMediaFluxo: 247 PMediaFila: 1 acao 0 recompensa: -10
+
+3 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 374 AMediaFluxo: 247 AMediaFila 1 acao 0 recompensa: -10
+PMediaSalto: 4033 PMediaFluxo: 2690 PMediaFila: 0 acao 0 recompensa: -10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 4033 AMediaFluxo: 2690 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 271 PMediaFluxo: 178 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 271 AMediaFluxo: 178 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 400 PMediaFluxo: 264 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 400 AMediaFluxo: 264 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 173 PMediaFluxo: 111 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 173 AMediaFluxo: 111 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 397 PMediaFluxo: 263 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 397 AMediaFluxo: 263 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 209 PMediaFluxo: 136 PMediaFila: 0 acao 0 recompensa: 10
+
+0 - Estado Inicial  -> recompensa 0 - Ação -> 1
+AMediaSalto: 0 AMediaFluxo: 0 AMediaFila 0 acao 1 recompensa: 0
+PMediaSalto: 256 PMediaFluxo: 169 PMediaFila: 0 acao 1 recompensa: 0
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 256 AMediaFluxo: 169 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 5225 PMediaFluxo: 3483 PMediaFila: 52 acao 0 recompensa: 10
+
+2 - Telemetria alta  -> recompensa 10 - Ação -> 1
+AMediaSalto: 5225 AMediaFluxo: 3483 AMediaFila 52 acao 1 recompensa: 10
+PMediaSalto: 261 PMediaFluxo: 175 PMediaFila: 0 acao 1 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 261 AMediaFluxo: 175 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 350 PMediaFluxo: 236 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 350 AMediaFluxo: 236 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 204 PMediaFluxo: 134 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 204 AMediaFluxo: 134 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 5067 PMediaFluxo: 3378 PMediaFila: 46 acao 1 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 5067 AMediaFluxo: 3378 AMediaFila 46 acao 0 recompensa: -10
+PMediaSalto: 258 PMediaFluxo: 173 PMediaFila: 2 acao 0 recompensa: -10
+
+3 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 258 AMediaFluxo: 173 AMediaFila 2 acao 0 recompensa: -10
+PMediaSalto: 229 PMediaFluxo: 151 PMediaFila: 0 acao 0 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 229 AMediaFluxo: 151 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 304 PMediaFluxo: 202 PMediaFila: 4 acao 1 recompensa: -10
+
+4 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 304 AMediaFluxo: 202 AMediaFila 4 acao 1 recompensa: 10
+PMediaSalto: 283 PMediaFluxo: 187 PMediaFila: 0 acao 1 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 283 AMediaFluxo: 187 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 4552 PMediaFluxo: 3036 PMediaFila: 52 acao 1 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 4552 AMediaFluxo: 3036 AMediaFila 52 acao 0 recompensa: -10
+PMediaSalto: 4313 PMediaFluxo: 2873 PMediaFila: 41 acao 0 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 4313 AMediaFluxo: 2873 AMediaFila 41 acao 0 recompensa: -10
+PMediaSalto: 283 PMediaFluxo: 191 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 283 AMediaFluxo: 191 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 304 PMediaFluxo: 200 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 304 AMediaFluxo: 200 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 429 PMediaFluxo: 286 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 429 AMediaFluxo: 286 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 259 PMediaFluxo: 169 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 259 AMediaFluxo: 169 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 167 PMediaFluxo: 108 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 167 AMediaFluxo: 108 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 333 PMediaFluxo: 219 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 333 AMediaFluxo: 219 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 4560 PMediaFluxo: 2861 PMediaFila: 0 acao 0 recompensa: 10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 4560 AMediaFluxo: 2861 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 4932 PMediaFluxo: 3290 PMediaFila: 0 acao 0 recompensa: -10
+
+6 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 4932 AMediaFluxo: 3290 AMediaFila 0 acao 1 recompensa: 10
+PMediaSalto: 174 PMediaFluxo: 112 PMediaFila: 0 acao 1 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 174 AMediaFluxo: 112 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 179 PMediaFluxo: 122 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 179 AMediaFluxo: 122 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 260 PMediaFluxo: 172 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 260 AMediaFluxo: 172 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 603 PMediaFluxo: 403 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 603 AMediaFluxo: 403 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 257 PMediaFluxo: 169 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 257 AMediaFluxo: 169 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 266 PMediaFluxo: 179 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 266 AMediaFluxo: 179 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 5250 PMediaFluxo: 3500 PMediaFila: 0 acao 0 recompensa: 10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 5250 AMediaFluxo: 3500 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 366 PMediaFluxo: 240 PMediaFila: 0 acao 0 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 366 AMediaFluxo: 240 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 227 PMediaFluxo: 151 PMediaFila: 2 acao 1 recompensa: -10
+
+3 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 227 AMediaFluxo: 151 AMediaFila 2 acao 0 recompensa: -10
+PMediaSalto: 151 PMediaFluxo: 95 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 151 AMediaFluxo: 95 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 144 PMediaFluxo: 94 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 144 AMediaFluxo: 94 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 275 PMediaFluxo: 183 PMediaFila: 0 acao 0 recompensa: 10
+
+0 - Estado Inicial  -> recompensa 0 - Ação -> 0
+AMediaSalto: 0 AMediaFluxo: 0 AMediaFila 0 acao 0 recompensa: 0
+PMediaSalto: 5122 PMediaFluxo: 3416 PMediaFila: 0 acao 0 recompensa: 0
+
+6 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 5122 AMediaFluxo: 3416 AMediaFila 0 acao 1 recompensa: 10
+PMediaSalto: 177 PMediaFluxo: 115 PMediaFila: 0 acao 1 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 177 AMediaFluxo: 115 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 589 PMediaFluxo: 393 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 589 AMediaFluxo: 393 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 252 PMediaFluxo: 166 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 252 AMediaFluxo: 166 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 289 PMediaFluxo: 191 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 289 AMediaFluxo: 191 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 181 PMediaFluxo: 119 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 181 AMediaFluxo: 119 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 315 PMediaFluxo: 209 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 315 AMediaFluxo: 209 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 313 PMediaFluxo: 210 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 313 AMediaFluxo: 210 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 305 PMediaFluxo: 199 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 305 AMediaFluxo: 199 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 164 PMediaFluxo: 106 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 164 AMediaFluxo: 106 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 3882 PMediaFluxo: 2588 PMediaFila: 44 acao 0 recompensa: 10
+
+2 - Telemetria alta  -> recompensa 10 - Ação -> 1
+AMediaSalto: 3882 AMediaFluxo: 2588 AMediaFila 44 acao 1 recompensa: 10
+PMediaSalto: 307 PMediaFluxo: 206 PMediaFila: 0 acao 1 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 307 AMediaFluxo: 206 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 5416 PMediaFluxo: 3610 PMediaFila: 53 acao 1 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 5416 AMediaFluxo: 3610 AMediaFila 53 acao 0 recompensa: -10
+PMediaSalto: 234 PMediaFluxo: 155 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 234 AMediaFluxo: 155 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 315 PMediaFluxo: 198 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 315 AMediaFluxo: 198 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 174 PMediaFluxo: 120 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 174 AMediaFluxo: 120 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 258 PMediaFluxo: 170 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 258 AMediaFluxo: 170 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 282 PMediaFluxo: 191 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 282 AMediaFluxo: 191 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 176 PMediaFluxo: 113 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 176 AMediaFluxo: 113 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 168 PMediaFluxo: 110 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 168 AMediaFluxo: 110 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 382 PMediaFluxo: 256 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 382 AMediaFluxo: 256 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 480 PMediaFluxo: 321 PMediaFila: 0 acao 1 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 480 AMediaFluxo: 321 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 196 PMediaFluxo: 131 PMediaFila: 0 acao 1 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 196 AMediaFluxo: 131 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 181 PMediaFluxo: 121 PMediaFila: 0 acao 1 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 181 AMediaFluxo: 121 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 4297 PMediaFluxo: 2866 PMediaFila: 41 acao 1 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 4297 AMediaFluxo: 2866 AMediaFila 41 acao 0 recompensa: -10
+PMediaSalto: 252 PMediaFluxo: 167 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 252 AMediaFluxo: 167 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 184 PMediaFluxo: 121 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 184 AMediaFluxo: 121 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 171 PMediaFluxo: 113 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 171 AMediaFluxo: 113 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 229 PMediaFluxo: 153 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 229 AMediaFluxo: 153 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 238 PMediaFluxo: 161 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 238 AMediaFluxo: 161 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 4076 PMediaFluxo: 2717 PMediaFila: 51 acao 1 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 4076 AMediaFluxo: 2717 AMediaFila 51 acao 0 recompensa: -10
+PMediaSalto: 412 PMediaFluxo: 271 PMediaFila: 32 acao 0 recompensa: -10
+
+0 - Estado Inicial  -> recompensa 0 - Ação -> 1
+AMediaSalto: 0 AMediaFluxo: 0 AMediaFila 0 acao 1 recompensa: 0
+PMediaSalto: 239 PMediaFluxo: 160 PMediaFila: 0 acao 1 recompensa: 0
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 239 AMediaFluxo: 160 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 194 PMediaFluxo: 128 PMediaFila: 7 acao 1 recompensa: -10
+
+4 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 194 AMediaFluxo: 128 AMediaFila 7 acao 1 recompensa: 10
+PMediaSalto: 302 PMediaFluxo: 199 PMediaFila: 0 acao 1 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 302 AMediaFluxo: 199 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 370 PMediaFluxo: 244 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 370 AMediaFluxo: 244 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 2837 PMediaFluxo: 1892 PMediaFila: 0 acao 0 recompensa: 10
+
+6 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 2837 AMediaFluxo: 1892 AMediaFila 0 acao 1 recompensa: 10
+PMediaSalto: 1072 PMediaFluxo: 714 PMediaFila: 15 acao 1 recompensa: 10
+
+4 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 1072 AMediaFluxo: 714 AMediaFila 15 acao 1 recompensa: 10
+PMediaSalto: 3618 PMediaFluxo: 2412 PMediaFila: 53 acao 1 recompensa: 10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 3618 AMediaFluxo: 2412 AMediaFila 53 acao 0 recompensa: -10
+PMediaSalto: 1092 PMediaFluxo: 728 PMediaFila: 36 acao 0 recompensa: -10
+
+3 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 1092 AMediaFluxo: 728 AMediaFila 36 acao 0 recompensa: -10
+PMediaSalto: 3616 PMediaFluxo: 2410 PMediaFila: 0 acao 0 recompensa: -10
+
+6 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 3616 AMediaFluxo: 2410 AMediaFila 0 acao 1 recompensa: 10
+PMediaSalto: 1322 PMediaFluxo: 883 PMediaFila: 41 acao 1 recompensa: 10
+
+3 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 1322 AMediaFluxo: 883 AMediaFila 41 acao 0 recompensa: -10
+PMediaSalto: 208 PMediaFluxo: 139 PMediaFila: 0 acao 0 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 208 AMediaFluxo: 139 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 235 PMediaFluxo: 157 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 235 AMediaFluxo: 157 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 297 PMediaFluxo: 198 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 297 AMediaFluxo: 198 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 2882 PMediaFluxo: 1921 PMediaFila: 45 acao 1 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 2882 AMediaFluxo: 1921 AMediaFila 45 acao 0 recompensa: -10
+PMediaSalto: 1626 PMediaFluxo: 1082 PMediaFila: 35 acao 0 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 1626 AMediaFluxo: 1082 AMediaFila 35 acao 0 recompensa: -10
+PMediaSalto: 198 PMediaFluxo: 130 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 198 AMediaFluxo: 130 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 171 PMediaFluxo: 111 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 171 AMediaFluxo: 111 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 203 PMediaFluxo: 132 PMediaFila: 0 acao 1 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 203 AMediaFluxo: 132 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 241 PMediaFluxo: 159 PMediaFila: 0 acao 1 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 241 AMediaFluxo: 159 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 737 PMediaFluxo: 483 PMediaFila: 35 acao 1 recompensa: -10
+
+4 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 737 AMediaFluxo: 483 AMediaFila 35 acao 1 recompensa: 10
+PMediaSalto: 4615 PMediaFluxo: 3076 PMediaFila: 47 acao 1 recompensa: 10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 4615 AMediaFluxo: 3076 AMediaFila 47 acao 0 recompensa: -10
+PMediaSalto: 2124 PMediaFluxo: 1416 PMediaFila: 56 acao 0 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 2124 AMediaFluxo: 1416 AMediaFila 56 acao 0 recompensa: -10
+PMediaSalto: 250 PMediaFluxo: 165 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 250 AMediaFluxo: 165 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 186 PMediaFluxo: 120 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 186 AMediaFluxo: 120 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 246 PMediaFluxo: 163 PMediaFila: 0 acao 1 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 246 AMediaFluxo: 163 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 2294 PMediaFluxo: 1529 PMediaFila: 44 acao 1 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 2294 AMediaFluxo: 1529 AMediaFila 44 acao 0 recompensa: -10
+PMediaSalto: 4342 PMediaFluxo: 2894 PMediaFila: 58 acao 0 recompensa: -10
+
+2 - Telemetria alta  -> recompensa 10 - Ação -> 1
+AMediaSalto: 4342 AMediaFluxo: 2894 AMediaFila 58 acao 1 recompensa: 10
+PMediaSalto: 3716 PMediaFluxo: 2477 PMediaFila: 51 acao 1 recompensa: 10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 3716 AMediaFluxo: 2477 AMediaFila 51 acao 0 recompensa: -10
+PMediaSalto: 2213 PMediaFluxo: 1476 PMediaFila: 20 acao 0 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 2213 AMediaFluxo: 1476 AMediaFila 20 acao 0 recompensa: -10
+PMediaSalto: 258 PMediaFluxo: 172 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 258 AMediaFluxo: 172 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 298 PMediaFluxo: 199 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 298 AMediaFluxo: 199 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 210 PMediaFluxo: 139 PMediaFila: 0 acao 0 recompensa: 10
+
+0 - Estado Inicial  -> recompensa 0 - Ação -> 1
+AMediaSalto: 0 AMediaFluxo: 0 AMediaFila 0 acao 1 recompensa: 0
+PMediaSalto: 221 PMediaFluxo: 147 PMediaFila: 0 acao 1 recompensa: 0
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 221 AMediaFluxo: 147 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 357 PMediaFluxo: 236 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 357 AMediaFluxo: 236 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 282 PMediaFluxo: 189 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 282 AMediaFluxo: 189 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 369 PMediaFluxo: 243 PMediaFila: 3 acao 0 recompensa: 10
+
+4 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 369 AMediaFluxo: 243 AMediaFila 3 acao 1 recompensa: 10
+PMediaSalto: 1395 PMediaFluxo: 929 PMediaFila: 46 acao 1 recompensa: 10
+
+4 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 1395 AMediaFluxo: 929 AMediaFila 46 acao 1 recompensa: 10
+PMediaSalto: 4509 PMediaFluxo: 3006 PMediaFila: 41 acao 1 recompensa: 10
+
+2 - Telemetria alta  -> recompensa 10 - Ação -> 1
+AMediaSalto: 4509 AMediaFluxo: 3006 AMediaFila 41 acao 1 recompensa: 10
+PMediaSalto: 3832 PMediaFluxo: 2554 PMediaFila: 48 acao 1 recompensa: 10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 3832 AMediaFluxo: 2554 AMediaFila 48 acao 0 recompensa: -10
+PMediaSalto: 425 PMediaFluxo: 280 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 425 AMediaFluxo: 280 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 326 PMediaFluxo: 217 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 326 AMediaFluxo: 217 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 456 PMediaFluxo: 304 PMediaFila: 0 acao 1 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 456 AMediaFluxo: 304 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 1779 PMediaFluxo: 1187 PMediaFila: 51 acao 1 recompensa: -10
+
+2 - Telemetria alta  -> recompensa 10 - Ação -> 1
+AMediaSalto: 1779 AMediaFluxo: 1187 AMediaFila 51 acao 1 recompensa: 10
+PMediaSalto: 3817 PMediaFluxo: 2547 PMediaFila: 54 acao 1 recompensa: 10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 3817 AMediaFluxo: 2547 AMediaFila 54 acao 0 recompensa: -10
+PMediaSalto: 407 PMediaFluxo: 274 PMediaFila: 8 acao 0 recompensa: -10
+
+3 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 407 AMediaFluxo: 274 AMediaFila 8 acao 0 recompensa: -10
+PMediaSalto: 374 PMediaFluxo: 252 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 374 AMediaFluxo: 252 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 1199 PMediaFluxo: 800 PMediaFila: 0 acao 0 recompensa: 10
+
+6 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 1199 AMediaFluxo: 800 AMediaFila 0 acao 1 recompensa: 10
+PMediaSalto: 4139 PMediaFluxo: 2759 PMediaFila: 51 acao 1 recompensa: 10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 4139 AMediaFluxo: 2759 AMediaFila 51 acao 0 recompensa: -10
+PMediaSalto: 2924 PMediaFluxo: 1949 PMediaFila: 54 acao 0 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 2924 AMediaFluxo: 1949 AMediaFila 54 acao 0 recompensa: -10
+PMediaSalto: 1372 PMediaFluxo: 912 PMediaFila: 0 acao 0 recompensa: -10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 1372 AMediaFluxo: 912 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 4691 PMediaFluxo: 3127 PMediaFila: 0 acao 0 recompensa: -10
+
+6 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 4691 AMediaFluxo: 3127 AMediaFila 0 acao 1 recompensa: 10
+PMediaSalto: 3538 PMediaFluxo: 2356 PMediaFila: 50 acao 1 recompensa: 10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 3538 AMediaFluxo: 2356 AMediaFila 50 acao 0 recompensa: -10
+PMediaSalto: 172 PMediaFluxo: 110 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 172 AMediaFluxo: 110 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 364 PMediaFluxo: 243 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 364 AMediaFluxo: 243 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 247 PMediaFluxo: 162 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 247 AMediaFluxo: 162 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 794 PMediaFluxo: 524 PMediaFila: 55 acao 1 recompensa: -10
+
+3 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 794 AMediaFluxo: 524 AMediaFila 55 acao 0 recompensa: -10
+PMediaSalto: 4150 PMediaFluxo: 2767 PMediaFila: 40 acao 0 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 4150 AMediaFluxo: 2767 AMediaFila 40 acao 0 recompensa: -10
+PMediaSalto: 4245 PMediaFluxo: 2831 PMediaFila: 0 acao 0 recompensa: -10
+
+6 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 4245 AMediaFluxo: 2831 AMediaFila 0 acao 1 recompensa: 10
+PMediaSalto: 213 PMediaFluxo: 136 PMediaFila: 0 acao 1 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 213 AMediaFluxo: 136 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 348 PMediaFluxo: 233 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 348 AMediaFluxo: 233 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 313 PMediaFluxo: 209 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 313 AMediaFluxo: 209 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 219 PMediaFluxo: 144 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 219 AMediaFluxo: 144 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 302 PMediaFluxo: 200 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 302 AMediaFluxo: 200 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 221 PMediaFluxo: 147 PMediaFila: 10 acao 0 recompensa: 10
+
+0 - Estado Inicial  -> recompensa 0 - Ação -> 0
+AMediaSalto: 0 AMediaFluxo: 0 AMediaFila 0 acao 0 recompensa: 0
+PMediaSalto: 292 PMediaFluxo: 195 PMediaFila: 0 acao 0 recompensa: 0
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 292 AMediaFluxo: 195 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 4566 PMediaFluxo: 3044 PMediaFila: 0 acao 0 recompensa: 10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 4566 AMediaFluxo: 3044 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 4254 PMediaFluxo: 2836 PMediaFila: 0 acao 0 recompensa: -10
+
+6 - Telemetria Alta -> recompensa 10 - Ação -> 1
+AMediaSalto: 4254 AMediaFluxo: 2836 AMediaFila 0 acao 1 recompensa: 10
+PMediaSalto: 4720 PMediaFluxo: 3147 PMediaFila: 48 acao 1 recompensa: 10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 4720 AMediaFluxo: 3147 AMediaFila 48 acao 0 recompensa: -10
+PMediaSalto: 781 PMediaFluxo: 518 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 781 AMediaFluxo: 518 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 178 PMediaFluxo: 115 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 178 AMediaFluxo: 115 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 479 PMediaFluxo: 317 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 479 AMediaFluxo: 317 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 198 PMediaFluxo: 132 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 198 AMediaFluxo: 132 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 4137 PMediaFluxo: 2757 PMediaFila: 0 acao 0 recompensa: 10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 4137 AMediaFluxo: 2757 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 5131 PMediaFluxo: 3421 PMediaFila: 0 acao 0 recompensa: -10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 5131 AMediaFluxo: 3421 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 5150 PMediaFluxo: 3434 PMediaFila: 0 acao 0 recompensa: -10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 5150 AMediaFluxo: 3434 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 198 PMediaFluxo: 132 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 198 AMediaFluxo: 132 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 303 PMediaFluxo: 201 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 303 AMediaFluxo: 201 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 162 PMediaFluxo: 106 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 162 AMediaFluxo: 106 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 309 PMediaFluxo: 208 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 309 AMediaFluxo: 208 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 260 PMediaFluxo: 170 PMediaFila: 0 acao 1 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 260 AMediaFluxo: 170 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 190 PMediaFluxo: 126 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 190 AMediaFluxo: 126 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 5447 PMediaFluxo: 3631 PMediaFila: 51 acao 0 recompensa: 10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 5447 AMediaFluxo: 3631 AMediaFila 51 acao 0 recompensa: -10
+PMediaSalto: 3350 PMediaFluxo: 2234 PMediaFila: 0 acao 0 recompensa: -10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 3350 AMediaFluxo: 2234 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 320 PMediaFluxo: 213 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 320 AMediaFluxo: 213 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 4519 PMediaFluxo: 3013 PMediaFila: 0 acao 0 recompensa: 10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 4519 AMediaFluxo: 3013 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 191 PMediaFluxo: 124 PMediaFila: 0 acao 0 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 191 AMediaFluxo: 124 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 284 PMediaFluxo: 187 PMediaFila: 1 acao 1 recompensa: -10
+
+3 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 284 AMediaFluxo: 187 AMediaFila 1 acao 0 recompensa: -10
+PMediaSalto: 384 PMediaFluxo: 256 PMediaFila: 0 acao 0 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 384 AMediaFluxo: 256 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 5077 PMediaFluxo: 3385 PMediaFila: 0 acao 0 recompensa: 10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 5077 AMediaFluxo: 3385 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 3469 PMediaFluxo: 2315 PMediaFila: 0 acao 0 recompensa: -10
+
+5 - Telemetria Media -> recompensa -10 - Ação -> 0
+AMediaSalto: 3469 AMediaFluxo: 2315 AMediaFila 0 acao 0 recompensa: -10
+PMediaSalto: 170 PMediaFluxo: 106 PMediaFila: 0 acao 0 recompensa: -10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 170 AMediaFluxo: 106 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 248 PMediaFluxo: 166 PMediaFila: 0 acao 1 recompensa: -10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 248 AMediaFluxo: 166 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 171 PMediaFluxo: 114 PMediaFila: 0 acao 0 recompensa: 10
+
+7 - Telemetria Media -> recompensa 10 - Ação -> 0
+AMediaSalto: 171 AMediaFluxo: 114 AMediaFila 0 acao 0 recompensa: 10
+PMediaSalto: 179 PMediaFluxo: 114 PMediaFila: 0 acao 0 recompensa: 10
+
+8 - Telemetria Alta -> recompensa -10 -  Ação -> 1
+AMediaSalto: 179 AMediaFluxo: 114 AMediaFila 0 acao 1 recompensa: -10
+PMediaSalto: 4343 PMediaFluxo: 2895 PMediaFila: 51 acao 1 recompensa: -10
+
+1 - Telemetria Media  -> recompensa -10 - Ação -> 0
+AMediaSalto: 4343 AMediaFluxo: 2895 AMediaFila 51 acao 0 recompensa: -10
+PMediaSalto: 215 PMediaFluxo: 145 PMediaFila: 0 acao 0 recompensa: -10
+

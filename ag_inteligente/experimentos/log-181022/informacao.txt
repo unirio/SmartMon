@@ -1,0 +1,8 @@
+Informações do Experiment
+
+trafego INT 3Mb em 30s
+trafego fundo 5Mb, 20Mb, 35Mb, 51Mb, 45Mb, 30Mb, 25Mb 10Mb em 60s
+
+20 episódios de 32 timesteps cada com batch size 16 e epsilon decay 0,985
+
+Rede Neural 128 / 64

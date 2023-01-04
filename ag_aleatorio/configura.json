@@ -1,0 +1,7 @@
+{
+    "qtdSwsMin" : "2",
+    "qtdSwsMax" : "2",
+    "valorSws" : "30",
+    "nosPossiveis" : ["11", "12"],
+    "qtdMaxPassos" : "10"
+}
